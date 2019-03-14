@@ -1,7 +1,7 @@
 CHOICES
 
 First Choice: [Stick with the PB&J your mom packed you. You're really looking forward to those Hip Tunes.](1a.md).
-Second Choice: ____
+Second Choice: [Approach Danny](3c.md)
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
