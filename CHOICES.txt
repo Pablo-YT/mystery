@@ -5,4 +5,6 @@ Second Choice: [Approach Danny](3c.md)
 Third Choice: [Approach Helga and the Doctor](3a.md)
 Fourth Choice: [Listen in on what they're saying](4a.md)
 Fifth Choice: [Approach Billy](3b.md)
-Sixth Choice:
+Sixth Choice: [Listen in on what he's saying](4c.md)
+Seventh Choice:
+Eight Choice:
