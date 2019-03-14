@@ -3,5 +3,5 @@ CHOICES
 First Choice: [Stick with the PB&J your mom packed you. You're really looking forward to those Hip Tunes.](1a.md).
 Second Choice: [Approach Danny](3c.md)
 Third Choice: [Approach Helga and the Doctor](3a.md)
-Fourth Choice: ____
+Fourth Choice: [Listen in on what they're saying](4a.md)
 Fifth Choice: ____
